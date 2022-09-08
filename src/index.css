@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+        "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+        "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+        monospace;
+}
+/* .btn {
+    all: unset;
+    width: 100px;
+    padding: 5px;
+    margin: 10px;
+    border: 1px black solid;
+    text-align: center;
+    text-decoration: none;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 1.5em;
+    background-color: crimson;
+}
+h1 {
+    font-size: 2em;
+}
+.user-item {
+    border: 1px black solid;
+    width: 200px;
+    height: 300px;
+    margin: 25px;
+    padding: 10px;
+    text-align: center;
+}
+.users-container {
+    background-color: beige;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+nav {
+    position: sticky;
+    top: 0px;
+    background-color: white;
+}
+.btn-post {
+    all: unset;
+    padding: 5px;
+    border: 1px black solid;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 1em;
+    background-color: rgb(59, 34, 244);
+    cursor: pointer;
+}
+.btn-post:focus {
+    background-color: rgb(108, 89, 255);
+} */
+
+
+
+
+/* .card-img,
+.card-img-bottom,
+.card-img-top {
+    width: 50% !important;
+} */
+.users-container {
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.user-item {
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
